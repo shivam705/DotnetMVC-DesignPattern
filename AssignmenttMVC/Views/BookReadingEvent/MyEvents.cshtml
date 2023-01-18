@@ -1,0 +1,21 @@
+﻿@using AssignmenttMVC.Model
+@using System.Collections.Generic;
+@model IEnumerable<EventsModel>
+@{
+    ViewData["Title"] = "MyEvents";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="text-align:center">MyEvents</h1>
+<div class="container">
+    @{
+        <ul>
+            @foreach (var item in Model)
+            {
+
+                <li>@Html.ActionLink(@item.Title, "ViewEvent", "BookReadingEvent", new { eventId = @item.EventId }, null)</li>
+
+            }
+        </ul>
+    }
+</div>

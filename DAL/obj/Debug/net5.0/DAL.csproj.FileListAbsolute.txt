@@ -1,0 +1,20 @@
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\shivamkushwaha\source\repos\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Assignments\Design pattern\AssignmenttMVC\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Assignments\Design pattern\AssignmenttMVC\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\Design pattern\AssignmenttMVC\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Assignments\Design pattern\AssignmenttMVC\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Assignments\Design pattern\AssignmenttMVC\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Assignments\Design pattern\AssignmenttMVC\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.dll
+D:\Assignments\Design pattern\AssignmenttMVC\AssignmenttMVC\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Assignments\Design pattern\AssignmenttMVC\AssignmenttMVC\DAL\obj\Debug\net5.0\DAL.pdb

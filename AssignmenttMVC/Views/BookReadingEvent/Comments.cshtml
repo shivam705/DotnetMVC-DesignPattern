@@ -1,0 +1,21 @@
+﻿@using AssignmenttMVC.Model
+@model IEnumerable<CommentModel>
+
+@{
+    ViewData["Title"] = "Comments";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Comments</h1>
+
+@{
+    <div class="container">
+        @foreach (var item in Model)
+        {
+            <div>
+                <p> @item.CommentAdded    Posted On  @item.Date.Date</p>
+            </div>
+        }
+    </div>
+
+}
